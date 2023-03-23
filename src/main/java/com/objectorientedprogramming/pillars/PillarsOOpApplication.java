@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PillarsOopApplication {
+public class PillarsOOpApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PillarsOopApplication.class, args);
+		SpringApplication.run(PillarsOOpApplication.class, args);
 	}
 
 }
